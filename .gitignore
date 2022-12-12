@@ -1,0 +1,6 @@
+bin/
+include/
+lib/
+libexec/
+mingw32/
+share/
